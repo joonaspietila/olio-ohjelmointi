@@ -1,0 +1,12 @@
+C:\Users\Joonas\source\repos\T1\T6-Kiuas\bin\Debug\netcoreapp3.1\T6-Kiuas.exe
+C:\Users\Joonas\source\repos\T1\T6-Kiuas\bin\Debug\netcoreapp3.1\T6-Kiuas.deps.json
+C:\Users\Joonas\source\repos\T1\T6-Kiuas\bin\Debug\netcoreapp3.1\T6-Kiuas.runtimeconfig.json
+C:\Users\Joonas\source\repos\T1\T6-Kiuas\bin\Debug\netcoreapp3.1\T6-Kiuas.runtimeconfig.dev.json
+C:\Users\Joonas\source\repos\T1\T6-Kiuas\bin\Debug\netcoreapp3.1\T6-Kiuas.dll
+C:\Users\Joonas\source\repos\T1\T6-Kiuas\bin\Debug\netcoreapp3.1\T6-Kiuas.pdb
+C:\Users\Joonas\source\repos\T1\T6-Kiuas\obj\Debug\netcoreapp3.1\T6-Kiuas.AssemblyInfoInputs.cache
+C:\Users\Joonas\source\repos\T1\T6-Kiuas\obj\Debug\netcoreapp3.1\T6-Kiuas.AssemblyInfo.cs
+C:\Users\Joonas\source\repos\T1\T6-Kiuas\obj\Debug\netcoreapp3.1\T6-Kiuas.csproj.CoreCompileInputs.cache
+C:\Users\Joonas\source\repos\T1\T6-Kiuas\obj\Debug\netcoreapp3.1\T6-Kiuas.dll
+C:\Users\Joonas\source\repos\T1\T6-Kiuas\obj\Debug\netcoreapp3.1\T6-Kiuas.pdb
+C:\Users\Joonas\source\repos\T1\T6-Kiuas\obj\Debug\netcoreapp3.1\T6-Kiuas.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Joonas\source\repos\T1\T3-Kulutus\bin\Debug\netcoreapp3.1\T3-Kulutus.exe
+C:\Users\Joonas\source\repos\T1\T3-Kulutus\bin\Debug\netcoreapp3.1\T3-Kulutus.deps.json
+C:\Users\Joonas\source\repos\T1\T3-Kulutus\bin\Debug\netcoreapp3.1\T3-Kulutus.runtimeconfig.json
+C:\Users\Joonas\source\repos\T1\T3-Kulutus\bin\Debug\netcoreapp3.1\T3-Kulutus.runtimeconfig.dev.json
+C:\Users\Joonas\source\repos\T1\T3-Kulutus\bin\Debug\netcoreapp3.1\T3-Kulutus.dll
+C:\Users\Joonas\source\repos\T1\T3-Kulutus\bin\Debug\netcoreapp3.1\T3-Kulutus.pdb
+C:\Users\Joonas\source\repos\T1\T3-Kulutus\obj\Debug\netcoreapp3.1\T3-Kulutus.AssemblyInfoInputs.cache
+C:\Users\Joonas\source\repos\T1\T3-Kulutus\obj\Debug\netcoreapp3.1\T3-Kulutus.AssemblyInfo.cs
+C:\Users\Joonas\source\repos\T1\T3-Kulutus\obj\Debug\netcoreapp3.1\T3-Kulutus.csproj.CoreCompileInputs.cache
+C:\Users\Joonas\source\repos\T1\T3-Kulutus\obj\Debug\netcoreapp3.1\T3-Kulutus.dll
+C:\Users\Joonas\source\repos\T1\T3-Kulutus\obj\Debug\netcoreapp3.1\T3-Kulutus.pdb
+C:\Users\Joonas\source\repos\T1\T3-Kulutus\obj\Debug\netcoreapp3.1\T3-Kulutus.genruntimeconfig.cache
+C:\Users\Joonas\source\repos\T1\T3-Kulutus\obj\Debug\netcoreapp3.1\T3-Kulutus.csprojAssemblyReference.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "T4-Palindromi/1.0.0": {
+        "runtime": {
+          "T4-Palindromi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "T4-Palindromi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

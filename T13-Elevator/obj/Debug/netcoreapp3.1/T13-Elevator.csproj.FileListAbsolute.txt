@@ -1,0 +1,13 @@
+C:\Users\Joonas\source\repos\T1\T13-Elevator\obj\Debug\netcoreapp3.1\T13-Elevator.AssemblyInfoInputs.cache
+C:\Users\Joonas\source\repos\T1\T13-Elevator\obj\Debug\netcoreapp3.1\T13-Elevator.AssemblyInfo.cs
+C:\Users\Joonas\source\repos\T1\T13-Elevator\obj\Debug\netcoreapp3.1\T13-Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Joonas\source\repos\T1\T13-Elevator\bin\Debug\netcoreapp3.1\T13-Elevator.exe
+C:\Users\Joonas\source\repos\T1\T13-Elevator\bin\Debug\netcoreapp3.1\T13-Elevator.deps.json
+C:\Users\Joonas\source\repos\T1\T13-Elevator\bin\Debug\netcoreapp3.1\T13-Elevator.runtimeconfig.json
+C:\Users\Joonas\source\repos\T1\T13-Elevator\bin\Debug\netcoreapp3.1\T13-Elevator.runtimeconfig.dev.json
+C:\Users\Joonas\source\repos\T1\T13-Elevator\bin\Debug\netcoreapp3.1\T13-Elevator.dll
+C:\Users\Joonas\source\repos\T1\T13-Elevator\bin\Debug\netcoreapp3.1\T13-Elevator.pdb
+C:\Users\Joonas\source\repos\T1\T13-Elevator\obj\Debug\netcoreapp3.1\T13-Elevator.dll
+C:\Users\Joonas\source\repos\T1\T13-Elevator\obj\Debug\netcoreapp3.1\T13-Elevator.pdb
+C:\Users\Joonas\source\repos\T1\T13-Elevator\obj\Debug\netcoreapp3.1\T13-Elevator.genruntimeconfig.cache
+C:\Users\Joonas\source\repos\T1\T13-Elevator\obj\Debug\netcoreapp3.1\T13-Elevator.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qTqLK9dxAUeZCse5OJeyHHghLpysUu9WincYa6Zq8HpB8e8fUrw05BOz4fxKOw8Y8UYi9Ct3VMGXrtu25X1cgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joonas\\source\\repos\\T1\\T2-makihyppy\\T2-Mäkihyppy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joonas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

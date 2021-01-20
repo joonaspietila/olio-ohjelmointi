@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N9Ct1rrLdTNvwQO2nSIogAu0KpGC0e9CvvTXt4tKv/mdnwYSEKCJqS5QiLb0eui22c3qtg6SvkxjEyntcSzMIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joonas\\source\\repos\\T1\\T14-Amplifier\\T14-Amplifier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joonas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

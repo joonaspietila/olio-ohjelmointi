@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "spoWX3GPFSx4QP+Ow8Us4iXlcnxFzOnVl3+M4a2Hyxz0tZaYm8zgCJV+iSQqkaFGwkRm+PykKLCWu6Qt7V3xDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joonas\\source\\repos\\T1\\T13-Elevator\\T13-Elevator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joonas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\Joonas\source\repos\T1\T2-makihyppy\bin\Debug\netcoreapp3.1\T2-makihyppy.exe
+C:\Users\Joonas\source\repos\T1\T2-makihyppy\bin\Debug\netcoreapp3.1\T2-makihyppy.deps.json
+C:\Users\Joonas\source\repos\T1\T2-makihyppy\bin\Debug\netcoreapp3.1\T2-makihyppy.runtimeconfig.json
+C:\Users\Joonas\source\repos\T1\T2-makihyppy\bin\Debug\netcoreapp3.1\T2-makihyppy.runtimeconfig.dev.json
+C:\Users\Joonas\source\repos\T1\T2-makihyppy\bin\Debug\netcoreapp3.1\T2-makihyppy.dll
+C:\Users\Joonas\source\repos\T1\T2-makihyppy\bin\Debug\netcoreapp3.1\T2-makihyppy.pdb
+C:\Users\Joonas\source\repos\T1\T2-makihyppy\obj\Debug\netcoreapp3.1\T2-makihyppy.csprojAssemblyReference.cache
+C:\Users\Joonas\source\repos\T1\T2-makihyppy\obj\Debug\netcoreapp3.1\T2-makihyppy.AssemblyInfoInputs.cache
+C:\Users\Joonas\source\repos\T1\T2-makihyppy\obj\Debug\netcoreapp3.1\T2-makihyppy.AssemblyInfo.cs
+C:\Users\Joonas\source\repos\T1\T2-makihyppy\obj\Debug\netcoreapp3.1\T2-makihyppy.csproj.CoreCompileInputs.cache
+C:\Users\Joonas\source\repos\T1\T2-makihyppy\obj\Debug\netcoreapp3.1\T2-makihyppy.dll
+C:\Users\Joonas\source\repos\T1\T2-makihyppy\obj\Debug\netcoreapp3.1\T2-makihyppy.pdb
+C:\Users\Joonas\source\repos\T1\T2-makihyppy\obj\Debug\netcoreapp3.1\T2-makihyppy.genruntimeconfig.cache

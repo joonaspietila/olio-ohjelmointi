@@ -1,0 +1,13 @@
+C:\Users\Joonas\source\repos\T1\T5-Nimet\bin\Debug\netcoreapp3.1\T5-Nimet.exe
+C:\Users\Joonas\source\repos\T1\T5-Nimet\bin\Debug\netcoreapp3.1\T5-Nimet.deps.json
+C:\Users\Joonas\source\repos\T1\T5-Nimet\bin\Debug\netcoreapp3.1\T5-Nimet.runtimeconfig.json
+C:\Users\Joonas\source\repos\T1\T5-Nimet\bin\Debug\netcoreapp3.1\T5-Nimet.runtimeconfig.dev.json
+C:\Users\Joonas\source\repos\T1\T5-Nimet\bin\Debug\netcoreapp3.1\T5-Nimet.dll
+C:\Users\Joonas\source\repos\T1\T5-Nimet\bin\Debug\netcoreapp3.1\T5-Nimet.pdb
+C:\Users\Joonas\source\repos\T1\T5-Nimet\obj\Debug\netcoreapp3.1\T5-Nimet.csprojAssemblyReference.cache
+C:\Users\Joonas\source\repos\T1\T5-Nimet\obj\Debug\netcoreapp3.1\T5-Nimet.AssemblyInfoInputs.cache
+C:\Users\Joonas\source\repos\T1\T5-Nimet\obj\Debug\netcoreapp3.1\T5-Nimet.AssemblyInfo.cs
+C:\Users\Joonas\source\repos\T1\T5-Nimet\obj\Debug\netcoreapp3.1\T5-Nimet.csproj.CoreCompileInputs.cache
+C:\Users\Joonas\source\repos\T1\T5-Nimet\obj\Debug\netcoreapp3.1\T5-Nimet.dll
+C:\Users\Joonas\source\repos\T1\T5-Nimet\obj\Debug\netcoreapp3.1\T5-Nimet.pdb
+C:\Users\Joonas\source\repos\T1\T5-Nimet\obj\Debug\netcoreapp3.1\T5-Nimet.genruntimeconfig.cache

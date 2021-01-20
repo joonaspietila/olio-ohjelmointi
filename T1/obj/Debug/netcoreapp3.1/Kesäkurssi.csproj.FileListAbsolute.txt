@@ -1,0 +1,13 @@
+C:\Users\Joonas\source\repos\T1\T1\bin\Debug\netcoreapp3.1\Kesäkurssi.exe
+C:\Users\Joonas\source\repos\T1\T1\bin\Debug\netcoreapp3.1\Kesäkurssi.deps.json
+C:\Users\Joonas\source\repos\T1\T1\bin\Debug\netcoreapp3.1\Kesäkurssi.runtimeconfig.json
+C:\Users\Joonas\source\repos\T1\T1\bin\Debug\netcoreapp3.1\Kesäkurssi.runtimeconfig.dev.json
+C:\Users\Joonas\source\repos\T1\T1\bin\Debug\netcoreapp3.1\Kesäkurssi.dll
+C:\Users\Joonas\source\repos\T1\T1\bin\Debug\netcoreapp3.1\Kesäkurssi.pdb
+C:\Users\Joonas\source\repos\T1\T1\obj\Debug\netcoreapp3.1\Kesäkurssi.csprojAssemblyReference.cache
+C:\Users\Joonas\source\repos\T1\T1\obj\Debug\netcoreapp3.1\Kesäkurssi.AssemblyInfoInputs.cache
+C:\Users\Joonas\source\repos\T1\T1\obj\Debug\netcoreapp3.1\Kesäkurssi.AssemblyInfo.cs
+C:\Users\Joonas\source\repos\T1\T1\obj\Debug\netcoreapp3.1\Kesäkurssi.csproj.CoreCompileInputs.cache
+C:\Users\Joonas\source\repos\T1\T1\obj\Debug\netcoreapp3.1\Kesäkurssi.dll
+C:\Users\Joonas\source\repos\T1\T1\obj\Debug\netcoreapp3.1\Kesäkurssi.pdb
+C:\Users\Joonas\source\repos\T1\T1\obj\Debug\netcoreapp3.1\Kesäkurssi.genruntimeconfig.cache

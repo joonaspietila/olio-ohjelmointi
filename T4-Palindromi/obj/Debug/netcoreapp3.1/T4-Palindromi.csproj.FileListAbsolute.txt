@@ -1,0 +1,13 @@
+C:\Users\Joonas\source\repos\T1\T4-Palindromi\bin\Debug\netcoreapp3.1\T4-Palindromi.exe
+C:\Users\Joonas\source\repos\T1\T4-Palindromi\bin\Debug\netcoreapp3.1\T4-Palindromi.deps.json
+C:\Users\Joonas\source\repos\T1\T4-Palindromi\bin\Debug\netcoreapp3.1\T4-Palindromi.runtimeconfig.json
+C:\Users\Joonas\source\repos\T1\T4-Palindromi\bin\Debug\netcoreapp3.1\T4-Palindromi.runtimeconfig.dev.json
+C:\Users\Joonas\source\repos\T1\T4-Palindromi\bin\Debug\netcoreapp3.1\T4-Palindromi.dll
+C:\Users\Joonas\source\repos\T1\T4-Palindromi\bin\Debug\netcoreapp3.1\T4-Palindromi.pdb
+C:\Users\Joonas\source\repos\T1\T4-Palindromi\obj\Debug\netcoreapp3.1\T4-Palindromi.AssemblyInfoInputs.cache
+C:\Users\Joonas\source\repos\T1\T4-Palindromi\obj\Debug\netcoreapp3.1\T4-Palindromi.AssemblyInfo.cs
+C:\Users\Joonas\source\repos\T1\T4-Palindromi\obj\Debug\netcoreapp3.1\T4-Palindromi.csproj.CoreCompileInputs.cache
+C:\Users\Joonas\source\repos\T1\T4-Palindromi\obj\Debug\netcoreapp3.1\T4-Palindromi.dll
+C:\Users\Joonas\source\repos\T1\T4-Palindromi\obj\Debug\netcoreapp3.1\T4-Palindromi.pdb
+C:\Users\Joonas\source\repos\T1\T4-Palindromi\obj\Debug\netcoreapp3.1\T4-Palindromi.genruntimeconfig.cache
+C:\Users\Joonas\source\repos\T1\T4-Palindromi\obj\Debug\netcoreapp3.1\T4-Palindromi.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Joonas\source\repos\T1\T1-Koulunumero\bin\Debug\netcoreapp3.1\T1-Koulunumero.exe
+C:\Users\Joonas\source\repos\T1\T1-Koulunumero\bin\Debug\netcoreapp3.1\T1-Koulunumero.deps.json
+C:\Users\Joonas\source\repos\T1\T1-Koulunumero\bin\Debug\netcoreapp3.1\T1-Koulunumero.runtimeconfig.json
+C:\Users\Joonas\source\repos\T1\T1-Koulunumero\bin\Debug\netcoreapp3.1\T1-Koulunumero.runtimeconfig.dev.json
+C:\Users\Joonas\source\repos\T1\T1-Koulunumero\bin\Debug\netcoreapp3.1\T1-Koulunumero.dll
+C:\Users\Joonas\source\repos\T1\T1-Koulunumero\bin\Debug\netcoreapp3.1\T1-Koulunumero.pdb
+C:\Users\Joonas\source\repos\T1\T1-Koulunumero\obj\Debug\netcoreapp3.1\T1-Koulunumero.csprojAssemblyReference.cache
+C:\Users\Joonas\source\repos\T1\T1-Koulunumero\obj\Debug\netcoreapp3.1\T1-Koulunumero.AssemblyInfoInputs.cache
+C:\Users\Joonas\source\repos\T1\T1-Koulunumero\obj\Debug\netcoreapp3.1\T1-Koulunumero.AssemblyInfo.cs
+C:\Users\Joonas\source\repos\T1\T1-Koulunumero\obj\Debug\netcoreapp3.1\T1-Koulunumero.csproj.CoreCompileInputs.cache
+C:\Users\Joonas\source\repos\T1\T1-Koulunumero\obj\Debug\netcoreapp3.1\T1-Koulunumero.dll
+C:\Users\Joonas\source\repos\T1\T1-Koulunumero\obj\Debug\netcoreapp3.1\T1-Koulunumero.pdb
+C:\Users\Joonas\source\repos\T1\T1-Koulunumero\obj\Debug\netcoreapp3.1\T1-Koulunumero.genruntimeconfig.cache
